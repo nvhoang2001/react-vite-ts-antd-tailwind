@@ -1,0 +1,9 @@
+.next/
+out/
+.yarn/
+.pnp.cjs
+.pnp.loader.mjs
+dist/
+node_modules/
+.vscode/
+public/
